@@ -1,5 +1,5 @@
 # SortingSimulator
-Simulate different sorting algorithms 
+Simulate different sorting algorithms, using the 'matplotlib' library, Implemented in python
 
 Bubble sort
 
